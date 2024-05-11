@@ -1,0 +1,14 @@
+C:\Users\deivy\OneDrive\Documentos\c#-projects\ClientGHT\ClientGHT\bin\Debug\net8.0\ClientGHT.exe
+C:\Users\deivy\OneDrive\Documentos\c#-projects\ClientGHT\ClientGHT\bin\Debug\net8.0\ClientGHT.deps.json
+C:\Users\deivy\OneDrive\Documentos\c#-projects\ClientGHT\ClientGHT\bin\Debug\net8.0\ClientGHT.runtimeconfig.json
+C:\Users\deivy\OneDrive\Documentos\c#-projects\ClientGHT\ClientGHT\bin\Debug\net8.0\ClientGHT.dll
+C:\Users\deivy\OneDrive\Documentos\c#-projects\ClientGHT\ClientGHT\bin\Debug\net8.0\ClientGHT.pdb
+C:\Users\deivy\OneDrive\Documentos\c#-projects\ClientGHT\ClientGHT\obj\Debug\net8.0\ClientGHT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deivy\OneDrive\Documentos\c#-projects\ClientGHT\ClientGHT\obj\Debug\net8.0\ClientGHT.AssemblyInfoInputs.cache
+C:\Users\deivy\OneDrive\Documentos\c#-projects\ClientGHT\ClientGHT\obj\Debug\net8.0\ClientGHT.AssemblyInfo.cs
+C:\Users\deivy\OneDrive\Documentos\c#-projects\ClientGHT\ClientGHT\obj\Debug\net8.0\ClientGHT.csproj.CoreCompileInputs.cache
+C:\Users\deivy\OneDrive\Documentos\c#-projects\ClientGHT\ClientGHT\obj\Debug\net8.0\ClientGHT.dll
+C:\Users\deivy\OneDrive\Documentos\c#-projects\ClientGHT\ClientGHT\obj\Debug\net8.0\refint\ClientGHT.dll
+C:\Users\deivy\OneDrive\Documentos\c#-projects\ClientGHT\ClientGHT\obj\Debug\net8.0\ClientGHT.pdb
+C:\Users\deivy\OneDrive\Documentos\c#-projects\ClientGHT\ClientGHT\obj\Debug\net8.0\ClientGHT.genruntimeconfig.cache
+C:\Users\deivy\OneDrive\Documentos\c#-projects\ClientGHT\ClientGHT\obj\Debug\net8.0\ref\ClientGHT.dll
